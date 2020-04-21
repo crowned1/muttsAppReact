@@ -1,0 +1,8 @@
+.main-content {
+    width: 100vw;
+    height: calc(100vh - 75px);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}

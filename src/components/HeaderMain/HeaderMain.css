@@ -1,0 +1,21 @@
+#header-main {
+    width: 60%;
+    height: 100%;
+    display: flex;
+}
+
+#chat-name-section,
+#header-main-icons {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#chat-name-section {
+    width: calc(85% - 95px);
+    padding-left: 20px;
+}
+
+#chat-name {
+    margin: 0;
+}
